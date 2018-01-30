@@ -2,6 +2,8 @@
 
 Hello All
 
-I am pushparaj, just want to learn the github overview and process.
+I am Pushparaj, just want to learn the github overview and process.
+
+Good news is that I have integrated the Git and Slack.
 
 Thanks.
